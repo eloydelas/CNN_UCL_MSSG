@@ -1,0 +1,33 @@
+
+
+The file: .DS_Store has been removed from Training set!
+The folder: training01_01 has been removed from Training set!
+The folder: training01_02 has been removed from Training set!
+The folder: training01_03 has been removed from Training set!
+The folder: training02_01 has been removed from Training set!
+The folder: training02_02 has been removed from Training set!
+The folder: training02_03 has been removed from Training set!
+The folder: training02_04 has been removed from Training set!
+The folder: training03_01 has been removed from Training set!
+The folder: training03_02 has been removed from Training set!
+The folder: training03_03 has been removed from Training set!
+The folder: training03_04 has been removed from Training set!
+The folder: training03_05 has been removed from Training set!
+The folder: training04_01 has been removed from Training set!
+The folder: training04_02 has been removed from Training set!
+The folder: training04_03 has been removed from Training set!
+The folder: training04_04 has been removed from Training set!
+The file: .DS_Store has been removed from Training set!
+The file: .DS_Store has been removed from Training set!
+The file: .DS_Store has been removed from Training set!
+The file: .DS_Store has been removed from Training set!
+The file: .DS_Store has been removed from Training set!
+The folder: training1 has been removed from Training set!
+The file: .DS_Store has been removed from Training set!
+The file: .DS_Store has been removed from Training set!
+The file: .DS_Store has been removed from Training set!
+The file: .DS_Store has been removed from Training set!
+The file: .DS_Store has been removed from Training set!
+The file: .DS_Store has been removed from Training set!
+The file: .DS_Store has been removed from Training set!
+The empty directory: 20160215 has been removed from Training set!
